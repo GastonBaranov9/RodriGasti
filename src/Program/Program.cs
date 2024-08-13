@@ -1,8 +1,8 @@
 ﻿// Esta clase implementa la operación resta. 
 public class Substraction
 {
-    public static int Substract(int a, int b)
+    public static int Substract(int b, int a)
     {
-        return a - b;
+        return b - a;
     }
 }
