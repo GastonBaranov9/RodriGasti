@@ -1,17 +1,7 @@
-// Esta clase implementa la operación SUMA
-public class Addition
+public class Division
 {
-    public static int Add(int b, int c)
+    public static double Divide(int a, int b)
     {
-        return b + c;
-    }
-}
-
-// Esta clase implementa la operación resta. 
-public class Substraction
-{
-    public static int Substract(int b, int a)
-    {
-        return b - a;
+        return (double)a / b;
     }
 }
