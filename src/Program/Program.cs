@@ -1,8 +1,8 @@
 ﻿// Esta clase implementa la operación SUMA
 public class Addition
 {
-    public static int Add(int a, int b)
+    public static int Add(int b, int c)
     {
-        return a + b;
+        return b + c;
     }
 }
