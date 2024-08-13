@@ -1,17 +1,7 @@
-// Esta clase implementa la operación SUMA
-public class Addition
+public class Multiplication
 {
-    public static int Add(int b, int c)
+    public static int Multiply(int a, int b)
     {
-        return b + c;
-    }
-}
-
-// Esta clase implementa la operación resta. 
-public class Substraction
-{
-    public static int Substract(int b, int a)
-    {
-        return b - a;
+        return a * b;
     }
 }
